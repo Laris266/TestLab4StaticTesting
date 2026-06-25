@@ -1,10 +1,6 @@
 describe("Gilded Rose", function() {
 
- /*  it("should foo", function() {
-    items = [ new Item("foo", 0, 0) ];
-    update_quality();
-    expect(items[0].name).toEqual("fixme");
-  }); */
+
   //ai support let ai double check tests and suggest missing tests
   //testing legacy code
   it("normal item decreases quality and sellIn by 1", () =>
